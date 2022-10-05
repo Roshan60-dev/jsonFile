@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Roshan Akthar S",
+        "age":22,
+        "college":"saranathan college of Engineering",
+        "zoho id":"pt1111",
+        "home address":"Trichy",
+        "now":"chennai"
+    },
+    {
+        "name":"Vinnarasan",
+        "age":22,
+        "college":"saranathan college of Engineering",
+        "zoho id":"pt1234",
+        "home address":"Tanjore",
+        "now":"chennai"
+    },
+    {
+        "name":"Hari",
+        "age":22,
+        "college":"saranathan college of Engineering",
+        "zoho id":"pt0021",
+        "home address":"Trichy",
+        "now":"chennai"
+    },
+    {
+        "name":"kaviya",
+        "age":22,
+        "college":"saranathan college of Engineering",
+        "zoho id":"pt0201",
+        "home address":"Trichy",
+        "now":"chennai"
+    },
+    {
+        "name":"Raksana",
+        "age":22,
+        "college":"saranathan college of Engineering",
+        "zoho id":"pt0012",
+        "home address":"manaparai",
+        "now":"chennai"
+    }
+]
